@@ -1,4 +1,4 @@
-###SignUp and SignIn Authantications
+##SignUp and SignIn Authantications
 
-###Technlolgies
+##Technlolgies
 React, ContextApi, Firebase
